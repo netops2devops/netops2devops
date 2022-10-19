@@ -2,7 +2,7 @@
 - 🤕 I am also a recovering network engineer and Openstack survivor. 
 - 👀 I’m interested in developing software and automation tools for security operations (blue team and red team)
 - 🌱 I’m currently learning Django and container security. 
-- 💞️ I’m looking to collaborate on ... any exciting ideas you may have for tools that can be used to automate security operations.
+- 💞️ I’m looking to collaborate on any exciting tools that can be used to automate or improve security operations.
 - 📫 How to reach me ... hit me up on twitter @netops2devops
 
 <!---
