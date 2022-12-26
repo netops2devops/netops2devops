@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kapil and I am a Security Engineer by profession. 
+- 👋 Hi! I’m Kapil (pronunciation : `cup ill`) and I am a Security Engineer by profession. 
 - 😜 I am also a recovering Network Engineer and an Openstack survivor. 
 - 👀 I’m interested in developing software and automation tools for security operations (blue team or red team)
 - 🌱 I’m currently learning Django and container security. 
