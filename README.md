@@ -1,6 +1,6 @@
 - 👋 Hi! I’m Kapil (pronunciation : `cup ill`) and I am a Security Engineer by profession. 
 - 😜 I am also a recovering Network Engineer and an Openstack survivor.
-- 👨‍💻 I like developing software tools and automated workflows to streamline network/security operations
+- 👨‍💻 I develop software tools and automated workflows to streamline security operations
 - ✍️ I blog on netops2devops.net (when I can)
 - 📫 Hit me up on @infosec.exchange if you have some interesting project ideas. 
 
