@@ -1,5 +1,5 @@
 - 👋 Hello! I am a Security Engineer
-- 😜 I am also a recovering Network Engineer and an Openstack survivor
+- 😜 Currently working on Kubernetes platform security. I am also a recovering Network Engineer and an Openstack survivor.
 - 👨‍💻 I develop software tools and automated workflows to streamline security operations
 - ⚙️ I work at the intersection of networking, systems and software and security
 
