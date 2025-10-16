@@ -1,4 +1,4 @@
-- ⚙️ I work at the intersection of networking, systems and software and security
+⚙️ I work at the intersection of networking, systems and software and security
 
 <!---
 netops2devops/netops2devops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
